@@ -1,5 +1,3 @@
-[<img src="[./img/Md Ashikur Rahman - Web Developer  WordPress & WooCommerce Expert (2).png](https://www.linkedin.com/in/ashikurofficial/overlay/background-image/)">
-](https://www.linkedin.com/in/ashikurofficial/overlay/background-image/)
 # 👋Hello! I'm Ashikur Rahman
 <p>A full time web developer and Freelancer</p><p>🏠 Living Kushtia, Bangladesh </p>
 
