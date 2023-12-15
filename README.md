@@ -1,3 +1,4 @@
+[![Md-Ashikur-Rahman-Web-Developer-Word-Press-Woo-Commerce-Expert-2.png](https://i.postimg.cc/wj17nLkz/Md-Ashikur-Rahman-Web-Developer-Word-Press-Woo-Commerce-Expert-2.png)](https://postimg.cc/bZjytGMV)
 # 👋Hello! I'm Ashikur Rahman
 <p>A full time web developer and Freelancer</p><p>🏠 Living Kushtia, Bangladesh </p>
 
@@ -7,7 +8,7 @@
 <a herf="https://ashikurofficial.com/"> For More Details </a>
 
 
-### 👨‍💻 Skills & Experience:
+### 👨‍💻 Skills & Experiance:
 ✅ HTML5 / CSS3 / SASS / Bootstrap  
 ✅ JavaScript   
 ✅ PHP  
@@ -15,6 +16,7 @@
 ✅ Photoshop / Illustrator / Figma
 
 <img src="./img/skills.svg">
+
 
 
 ### 🙍‍♂️Sports / Game / Activities / Hobby:
